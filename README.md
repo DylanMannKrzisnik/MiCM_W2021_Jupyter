@@ -1,4 +1,4 @@
-# MiCM_W2021_Jupyter
+# MiCM 2021 - Intro to Jupyter & BASH
 Introductory MiCM workshop on Jupyter notebooks with Binder image. Workshop held on April 23, 2021.
 
 Access Binder/Docker image by clicking on badge below:
