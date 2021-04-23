@@ -1,5 +1,5 @@
 # MiCM 2021 - Intro to Jupyter & BASH
-Introductory MiCM workshop on Jupyter notebooks. We will be using Binder for ease-of-use. Workshop held on April 23, 2021.
+Introductory MiCM workshop on Jupyter notebooks, held on April 23 2021. We will be using Binder for ease-of-use.
 
 Binder requires the material to be stored within a Github repository. The notebook we'll be using is called <ins>**MiCM_2021_notebook.ipynb**</ins>. Moreover, a copy of this notebook with the full code is available under the name <ins>**MiCM_2021_notebook_full.ipynb**</ins>.
 
