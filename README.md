@@ -13,6 +13,6 @@ The outline of this workshop is:
 
 Depending on your reason for registering to this workshop, we may want to focus on a subset of these topics.
 
-Access Binder/Docker image by clicking on badge below:
+Access Binder image by clicking on badge below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DylanMannKrzisnik/MiCM_W2021_Jupyter.git/main?filepath=MiCM_2021_notebook.ipynb)
