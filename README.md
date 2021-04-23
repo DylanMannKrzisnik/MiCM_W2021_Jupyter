@@ -5,7 +5,7 @@ We will be using Binder for ease-of-use. Binder requires the material to be stor
 
 The outline of this workshop is:
 
-1. Overall view of Jupyter notebooks
+1. Overview of Jupyter notebooks
 1. Basics of BASH
 1. Basics of Python
 1. Application: EEG analysis using ICA & PCA
